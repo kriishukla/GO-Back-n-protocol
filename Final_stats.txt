@@ -1,0 +1,4 @@
+Average delay for packets sent from Entity 1 to Entity 2: 2.3266196823120118 seconds
+Average delay for packets sent from Entity 2 to Entity 1: 1.0406343388557433 seconds
+Average number of send attempts for Entity 1: 2.37
+Average number of send attempts for Entity 2: 2.14
